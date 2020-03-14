@@ -275,6 +275,7 @@ a:hover {
     cursor: pointer;
     text-decoration: none;
     outline: none;
+    
 }
 
 body {
@@ -3200,8 +3201,10 @@ footer .copyright a {
     color: #222;
 }
 
+
+
 footer .copyright .fa {
-    color: #e9edd9;
+    color: #9fcc45;
 }
 
 /*follow*/
@@ -3258,10 +3261,10 @@ footer .copyright .fa {
         color: #fff;
     }
     footer ul li a:hover {
-        color: #222;
+        color: #9fcc45;
     }
     footer .copyright a:hover {
-        color: #e9edd9;
+        color: #9fcc45;
     }
 }
 
